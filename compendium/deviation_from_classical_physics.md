@@ -25,4 +25,10 @@ Wiens forskuyvningslov : beregne bølgekengden der spektralfordelingen har sitt 
 Sannsynligheten P for å finne et system med energi $E > E_0$ i et ensemble av systyemer ved temperaturen T er $P(E)=P_0e^{-(E-E_0)/k_BT}$ hvor $P_0$ er sannsynligheten for å finne systemet ved minimumsenergien. $\langle E\rangle = \frac{h\nu}{e^{h\nu /k_BT}-1}$
 
 
-## Lysets partikkelegenskaper :
+## Lysets partikkelegenskaper : 
+
+Einstein foreslo at lyset består av partikler kaldt fotoner og dermed er diskret - teori publisert i 1905. Den fotoelektriske eekt ble bl.a. studert av Hertz i 1887. Essensen i denne eekten er at lys sendes inn mot en metallplate, og elektroner blir emittertfra platen som en følge av dette. Einstein foreslo i 1905 at energien til et foton, for å forklare fotoelektrisk effekt, beskrives som $E=h\nu$ og at energibunten blir fullstendig absorbert av elektronet under eksperimentet hans, slika t energibalansen uttrykkes som $K = h\nu-w$ hvor w er arbeidet som kreves for å fjerne eet elektron fra metallet. 
+
+
+
+
