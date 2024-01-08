@@ -27,8 +27,16 @@ Sannsynligheten P for å finne et system med energi $E > E_0$ i et ensemble av s
 
 ## Lysets partikkelegenskaper : 
 
-Einstein foreslo at lyset består av partikler kaldt fotoner og dermed er diskret - teori publisert i 1905. Den fotoelektriske eekt ble bl.a. studert av Hertz i 1887. Essensen i denne eekten er at lys sendes inn mot en metallplate, og elektroner blir emittertfra platen som en følge av dette. Einstein foreslo i 1905 at energien til et foton, for å forklare fotoelektrisk effekt, beskrives som $E=h\nu$ og at energibunten blir fullstendig absorbert av elektronet under eksperimentet hans, slika t energibalansen uttrykkes som $K = h\nu-w$ hvor w er arbeidet som kreves for å fjerne eet elektron fra metallet. 
+Einstein foreslo at lyset består av partikler kaldt fotoner og dermed er diskret - teori publisert i 1905. Den fotoelektriske eekt ble bl.a. studert av Hertz i 1887. Essensen i denne eekten er at lys sendes inn mot en metallplate, og elektroner blir emittertfra platen som en følge av dette. Einstein foreslo i 1905 at energien til et foton, for å forklare fotoelektrisk effekt, beskrives som $E=h\nu$ og at energibunten blir fullstendig absorbert av elektronet under eksperimentet hans, slika t energibalansen uttrykkes som $K = h\nu-w$ hvor w er arbeidet som kreves for å fjerne et elektron fra metallet. 
 
+### Røntgen-stråling : 
+Motsatte av fotoelektrisk effekt. 
 
+### Compton-spredning :
+$E=h\nu = hc/\lambda$
+Braggs lov : $n\lambda = 2dsin\phi$ hvor $\phi$ er refleksjonsvinkel, d er avstand mellom atomlagene som gir konstruktiv ibnterferens med bølgelengde. 
 
+Fotoner kan tilegnes partikkelegenskapen bevegelsesmengde. 
+
+# Bohrs atommodell : 
 
