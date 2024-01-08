@@ -40,3 +40,6 @@ Fotoner kan tilegnes partikkelegenskapen bevegelsesmengde.
 
 # Bohrs atommodell : 
 
+
+
+
