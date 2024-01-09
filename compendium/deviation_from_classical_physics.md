@@ -39,7 +39,9 @@ Braggs lov : $n\lambda = 2dsin\phi$ hvor $\phi$ er refleksjonsvinkel, d er avsta
 Fotoner kan tilegnes partikkelegenskapen bevegelsesmengde. 
 
 # Bohrs atommodell : 
-
+Korrespondanseprinsippet : Kvanteteoriens forutsigelser om oppførselen til et fysisk system skal svare til de
+for et klassisk system i grensen hvor kvantetallene som bestemmer en tilstand
+blir veldig store.
 
 
 
